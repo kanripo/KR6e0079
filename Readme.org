@@ -1,13 +1,11 @@
-#-*- mode: org; -*-
-#+DATE: 2015-09-28 22:57:58.127215
-#+TITLE: 五教章集成記
-#+PROPERTY: CBETA_ID X58n0999
-#+PROPERTY: ID KR6e0079
-#+PROPERTY: SOURCE 卍 Xuzangjing Vol. 58, No. 999
-#+PROPERTY: VOL 58
-#+PROPERTY: BASEEDITION X
-#+PROPERTY: WITNESS CBETA
+#+TITLE: 五教章集成記 / CBETA
+#+DATE: 2015-11-26 14:15:49.203050
+* 版本
+ |     CBETA|【電子佛典集成】|
+ |         X|【卍續】    |
 
-<pb:KR6e0079_X_000-0397a>
-[[file:KR6e0079_001.txt::001-0397a1][No.999-A華嚴一乘教義分齊章集成記序¶]]
-[[file:KR6e0079_001.txt::0397b3][華嚴一乘教義分齊章集成記]]
+* 目次
+* [[file:KR6e0079_001.txt::001-0397a1][No.999-A華嚴一乘教義分齊章集成記序¶]]
+* [[file:KR6e0079_001.txt::0397b3][華嚴一乘教義分齊章集成記]]
+* 卷
+** [[file:KR6e0079_001.txt][五教章集成記 1]]
